@@ -49,6 +49,10 @@ amigo-secreto/
 4. O sorteado será exibido logo abaixo.
 
 
+## 📷 Prévia do projeto
+
+*(adicione aqui um print da tela ou um gif demonstrando o funcionamento)*
+
 ## 📝 Licença
 
 Este projeto está sob a licença MIT.
