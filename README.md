@@ -46,9 +46,6 @@ amigo-secreto/
 3. Após adicionar todos os nomes, clique em **Sortear amigo**.
 4. O sorteado será exibido logo abaixo.
 
-## 📷 Prévia do projeto
-
-*(adicione aqui um print da tela ou um gif demonstrando o funcionamento)*
 
 ## 📝 Licença
 
