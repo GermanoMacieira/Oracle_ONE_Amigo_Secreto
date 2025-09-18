@@ -51,7 +51,7 @@ amigo-secreto/
 
 ## 📷 Prévia do projeto
 
-*(adicione aqui um print da tela ou um gif demonstrando o funcionamento)*
+*(https://github.com/GermanoMacieira/Oracle_ONE_Amigo_Secreto/blob/main/Amigo%20Secreto.gif)*
 
 ## 📝 Licença
 
