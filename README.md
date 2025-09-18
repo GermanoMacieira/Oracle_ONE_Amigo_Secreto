@@ -1,8 +1,10 @@
 ````markdown
 # 🎁 Amigo Secreto
 
-Este é um projeto simples em **HTML, CSS e JavaScript** para realizar um sorteio de **Amigo Secreto**.  
-O usuário digita os nomes dos participantes, que ficam listados na tela, e depois pode realizar o sorteio de forma prática.  
+Este é um projeto simples em **HTML, CSS e JavaScript** para realizar
+um sorteio de **Amigo Secreto**.  
+O usuário digita os nomes dos participantes, que ficam listados na
+tela, e depois pode realizar o sorteio de forma prática.
 
 ## 🖥️ Tecnologias utilizadas
 - HTML5  
